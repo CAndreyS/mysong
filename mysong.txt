@@ -1,4 +1,4 @@
 choisir une musique: toto
 choisir une musique: toto 2
-choisir une musique: toto 3
+choisir une musique: Metallica
 choisir une musique: THE BEATLES
