@@ -1,5 +1,4 @@
-choisir une musique: Mozart
-choisir une musique: toto 2
-choisir une musique: Metallica
 choisir une musique: THE BEATLES
 choisir une musique: Dream Theatre
+c'est la danse des canards
+Maurice le roi de la glisse
